@@ -1,4 +1,4 @@
-#!/bin/bash
+
 echo Input Password:
 read -s
 sudo -S passwd root <<EOF
