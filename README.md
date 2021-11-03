@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/alexobninsk/Make_root/main/make_root1.sh && chmod +x make_root1.sh && ./make_root1.sh
+wget https://raw.githubusercontent.com/alexobninsk/Make_root/main/make_root.sh && chmod +x make_root.sh && ./make_root.sh
